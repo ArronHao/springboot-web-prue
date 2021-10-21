@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://43.224.153.87:3306/share
+      username: share
+      password: hxs1988
